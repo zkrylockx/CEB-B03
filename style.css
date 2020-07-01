@@ -145,6 +145,37 @@ header {
     opacity: 1;
 }
 
+.main-wrapper {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: c0c0c0;
+}
+
+.main-wrapper .heading {
+    line-height: 60px;
+}
+
+.main {
+    float: left;
+    width: 33.3%;
+}
+
+.main-icon p {
+    font-weight: bold;
+    line-height: 4;
+}
+
+.txt-contents {
+    font-size: 15px;
+    display: inline-block;
+    margin: 2px 15px;
+}
+
+.clear {
+    clear: left;
+}
+
 footer p {
     color: #fff;
     font-size: 45px;
