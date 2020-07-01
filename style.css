@@ -146,39 +146,35 @@ header {
 }
 
 footer p {
-  color: #fff;
-  font-size: 45px;
-  float: left;
-  padding-left: 10px;
+    color: #fff;
+    font-size: 45px;
+    float: left;
+    padding-left: 10px;
+    cursor: default;
 }
-
-.btn {
-	color:#2d3436;
-}
-
 
 .hubungi {
-	float: right;
-	padding: 15px 40px;
-    background-color:#fff ;
+    float: right;
+    padding: 10px 40px;
+    margin-top: 7px;
+    background-color: #2950ff;
     cursor: pointer;
-    box-shadow: 0 7px #dfe6e9;
+    box-shadow: 0 7px #162a85;
+    opacity: 0.7;
 }
 
 .hubungi:active {
-	position: relative;
-	background-color: #5dca88;
-	box-shadow: none;
-	top: 7px; 
+    position: relative;
+    background-color: #2950ff;
+    box-shadow: none;
+    top: 5px;
 }
 
-
 footer {
-
-	height: 65px;
-  	width: 100%;
-  	padding-top: 10px;
-    padding-bottom:80px;
+    height: 65px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 80px;
     background-color: rgba(0, 0, 0, 0.9);
     font-family: "El Messiri", sans-serif;
 }
